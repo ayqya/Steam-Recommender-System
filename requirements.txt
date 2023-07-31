@@ -1,0 +1,27 @@
+List of Python Libraries and Versions:
+--------------------------------------
+python=3.8
+numpy=1.23.1
+pandas=1.4.3
+scipy=1.7.1
+scikit-learn=0.24.
+scikit-surprise=1.1.1
+matplotlib:  3.7.1
+seaborn=0.12.2
+
+** Please note that each Jupyter Notebook also includes information on base libraries used, including information for version control purposes. **
+
+
+-------------------------------------------------------
+Installing libraries with conda can be done with below:
+-------------------------------------------------------
+
+conda create -n bigdata_ml python=3.8 numpy=1.23.1 pandas=1.4.3 scipy=1.7.1 scikit-learn=0.24.1 jupyter jupyterlab seaborn
+
+conda activate bigdata_ml
+
+conda install -c conda-forge mlxtend=0.18.0
+
+conda install -c conda-forge scikit-surprise=1.1.1
+
+conda install -c conda-forge networkx=3.0
