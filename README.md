@@ -14,6 +14,6 @@ The sheer diversity of information associated with individual games (from genre,
 |1. Data Collection|Sourcing from multiple data resources for Steam game data, recommendations by users and user statistics. Steam API, SteamSpy API and SteamDB are the primary sources of all information.|Notebook Part 1|
 |2. Data Processing|Cleaning the acquired data with the intent to preserve as much game data as possible.|Notebook Part 1 & 2|
 |3. Exploratory Data Analysis (EDA) and Visualizations|Checking out individual features/categories/columns and visualization notable insights.|Notebook Part 2|
-|4. Basic Modeling|A look into basic recommendation systems using user independent systems relying solely on popularity/scoring metrics and modeling using cosine similarity to find games with similar content.|Notebook Part 3|
-|5. Advanced Modeling|Stay Tuned!|
-|6. Model Evaluation|Stay Tuned!|
+|4. Basic Modeling|A look into basic recommendation systems using user independent systems relying solely on popularity/scoring metrics and modeling using cosine similarity to find games with similar content.|Notebook Part 3A|
+|5. Advanced Modeling|Experimental hybrid system using K-Means clustering into cosine similarity, and a brief look into FunkSVD|Notebook Part 3B & 4|
+|6. Model Evaluation|Checking out accuracy of FunkSVD|Notebook Part 3B & 4|
