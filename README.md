@@ -2,7 +2,11 @@
 <h3 align='center'>BRAINSTATION CAPSTONE PROJECT</h3>
 
 ## :video_game: OVERVIEW
-**Purpose:** A content-based and user behaviour-based Steam game recommendation system using machine learning techniques. 
+**Purpose:** To create a content-based and user behaviour-based Steam game recommendation system using machine learning techniques. 
+
+Steam is a digital platform to purchase and store digital copies of games that can then be easily accessed on the same platform alongside social features (such as online cooperative gameplay, friends lists, chatting, etc). There are anywhere from 10 to 20 million daily active users at any time, and at its peak, there have been almost 30 million users online at once. With around 80 to 90 thousand products (including software, games, DLC, etc) currently available and an exponentially growing number year over year, it becomes ever more difficult to decide where to invest a limited amount of gaming time. 
+
+The sheer diversity of information associated with individual games (from genre, point of view, type (visual novels, role playing games, first person shooters—to name a few)) lends itself to be a problem for big data and machine learning. Add onto that millions of players with unique player stats (games owned, reviews, playtime, etc), and there is an overwhelmingly large amount of data that can be worked with. 
 
 ## :100: WORK IN PROGRESS
 |Phase of Analysis|Description of Work|Notebook|
